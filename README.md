@@ -2,6 +2,51 @@
 
 This repository contains age-based curriculum plans for web coding and interactive media design.
 
+---
+
+## Instructions
+
+### Who This Is For
+This curriculum is designed for educators, after-school program leaders, and parents who want to introduce children and teenagers to web coding and interactive media design in a structured, age-appropriate way.
+
+### How to Use This Repository
+1. **Choose the right age group** – Navigate to the section that matches your learners:
+   - [Junior Kids (Ages 5–7)](#1-junior-kids-ages-5-7)
+   - [Senior Kids (Ages 7–10)](#2-senior-kids-ages-7-10)
+   - [Teenagers](#3-teenagers)
+2. **Pick a track** – Each age group offers two parallel tracks:
+   - **Web Coding** – focuses on HTML, CSS, and JavaScript skills.
+   - **Interactive Media Design** – focuses on visual design, UX, prototyping, and storytelling.
+   You can run both tracks simultaneously or independently depending on your programme structure.
+3. **Follow the weekly plan** – Each week lists the topic, activity, and step-by-step guide. Deliver one week per class session (typically 60–90 minutes).
+4. **Adapt as needed** – Feel free to swap activities, extend weeks, or merge sessions to fit your schedule and learner pace.
+
+### Suggested Session Format
+| Time | Activity |
+|------|----------|
+| 10 min | Warm-up / recap of previous session |
+| 15 min | Concept introduction (slides, demo, or discussion) |
+| 25 min | Guided hands-on activity |
+| 15 min | Independent or group exploration |
+| 10 min | Reflection, sharing, and Q&A |
+
+### Recommended Tools
+- **Junior Kids**: Google Slides, Scratch Jr, Canva for Education, or any beginner block-based web editor.
+- **Senior Kids**: Scratch, Replit (beginner HTML), Figma (Education tier), or equivalent visual coding tools.
+- **Teenagers**: VS Code, CodePen or Replit, Figma, GitHub for version control.
+
+### Contributing
+Contributions are welcome! To suggest improvements or add new resources:
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature/your-change`.
+3. Make your changes and commit: `git commit -m "Add: description of change"`.
+4. Open a pull request with a clear description of what you've added or changed.
+
+### Feedback & Questions
+If you use this curriculum and have feedback, please open a GitHub Issue with the label `feedback`. We'd love to hear how it worked in your classroom!
+
+---
+
 ## 1) Junior Kids (Ages 5-7)
 
 ### Learning Goals
